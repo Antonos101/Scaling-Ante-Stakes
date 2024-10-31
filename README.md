@@ -2,6 +2,6 @@
 
 Each Stake type has 6 stakes, with the sixth being the most powerful
 
-Increased Ante Stakes increase ante scaling by 25%.
-More Ante Stakes increase the ante needed to win the game by 2.
-Crazy Stakes are a combination of More Ante Stakes and Increased Ante Stakes for more challenging gameplay.
+"Increased Ante Stakes" increase ante scaling by 25%.
+"More Ante Stakes" increase the ante needed to win the game by 2.
+"Crazy Stakes" are a combination of More Ante Stakes and Increased Ante Stakes for more challenging gameplay.
